@@ -6,6 +6,7 @@ const session = require('express-session');
 const flash = require('connect-flash');
 const ExpressError = require('./utils/ExpressError');
 const methodOverride = require('method-override');
+const port=process.env.PORT||3000;
 
 
 
@@ -70,7 +71,7 @@ app.use((err, req, res, next) => {
     res.status(statusCode).render('error', { err })
 })
 
-app.listen(3000, () => {
+app.listen(port, () => {
     console.log('Serving on port 3000')
 })
 
