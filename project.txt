@@ -1,0 +1,44 @@
+[{ 
+  "_id" : "61a5aebe04a736c0502af8e5",
+  "title" : "Manali", 
+  "image" : "https://upload.wikimedia.org/wikipedia/commons/0/03/Manali_City.jpg", 
+  "price" : 15, 
+  "description" : "Cold place", 
+  "location" : "Himachal", 
+  "reviews" : [ "61b0d39e60f0ef4fb8cd25da", 
+  "61b0e4671fbfb8f0ae8543cb", "61b0e4741fbfb8f0ae8543d1"], 
+  "__v" : 4 
+},
+
+{ 
+  "_id" : "61a9bdc7875f8ef486ee0e74", 
+  "title" : "Jotiba Mandir", 
+  "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jyotiba1.jpg/220px-Jyotiba1.jpg", 
+  "price" : 14, 
+  "description" : "Temple", 
+  "location" : "Kolhapur", 
+  "reviews" : "61ac4698e02cd23a4a62baea", 
+  "__v" : 2 
+  
+},
+{ 
+  "_id" : "61ac460de02cd23a4a62bacb", 
+  "title" : "Kulu manali", 
+  "image" : "https://www.kullu-manali.co.in/wp-content/uploads/2019/07/IMG_20181222_100040-768x362.jpg", 
+  "price" : 200, 
+  "description" : "Nice",
+  location" : "kulu", 
+  "reviews" : "61ac4617e02cd23a4a62bacf", 
+  "__v" : 1 
+  
+},
+{ 
+  "_id" : "61ae3412c8a8eb7aecbbe2b8", 
+  "title" : "Kaneri Math", 
+  "image" : "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kanheri_math.jpg", 
+  "price" : 15, 
+  "description" : "Very Peaceful Plae", 
+  "location" : "Kolhapur", 
+  "reviews" : "61ae3423c8a8eb7aecbbe2bc",
+  "__v" : 1 
+}]
